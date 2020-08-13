@@ -1,2 +1,1 @@
-# GlaDos
-(Fausse Pub) GAGNEZ 2€ PAR SALLE DE TEST AVEC APERTURE SCIENCE !
+#Private code
